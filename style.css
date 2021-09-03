@@ -1,0 +1,77 @@
+body{
+    
+    background-color: aliceblue;
+    text-align: center;
+}
+
+img{
+    width: 100px;
+}
+
+.firstdiv{
+
+  background-color: white;
+  width: 80%;
+  margin-left: 140px;
+  margin-top: 70px;
+  border-radius: 50px;
+  font-family: 'Didact Gothic', sans-serif;
+
+
+}
+
+.webcam{
+
+   background-color:#d3def0;
+   border: 5px solid aliceblue;
+   border-radius: 50px;
+   margin-top: 50px;
+   font-family: 'Didact Gothic', sans-serif;
+
+
+}
+
+#camera,#capturedimg{
+
+    border: 15px ridge aliceblue; 
+   height: 400px;
+   width: 400px;
+   box-shadow: 0px 10px 20px white;
+   
+   
+}
+
+button{
+    font-size: 20px;
+    font-family: 'Urbanist', sans-serif;
+}
+
+.resultdiv{
+    background-color: white;
+    width: 80%;
+    margin-left: 140px;
+    margin-top: 50px;
+    border-radius: 50px;
+    text-align: left;
+    margin-bottom: 70px;
+    font-family: 'Didact Gothic', sans-serif;
+
+
+}
+
+#footer{
+
+    position: fixed;
+    bottom:0;
+    background-color: white;
+    border-radius: 50px;
+    line-height: 5;
+    font-family: 'Urbanist', sans-serif;
+}
+
+#img1{
+
+   width: 350px;
+   height: 350px;
+
+}
